@@ -1,0 +1,16 @@
+======================================================================
+  COMPLAINTS SUMMARY REPORT
+  Generated: 2026-10-03 02:39
+======================================================================
+
+   category     | total | resolved | open_cnt | pct_resolved
+   -------------+-------+----------+----------+-------------
+   Delay        | 8     | 3        | 2        | 37.5        
+   Behavior     | 6     | 2        | 2        | 33.3        
+   Overcrowding | 5     | 1        | 2        | 20.0        
+   Other        | 5     | 4        | 1        | 80.0        
+   Cleanliness  | 1     | 0        | 1        | 0.0         
+
+
+   INSIGHT: High 'Open' counts indicate unresolved service issues.
+======================================================================

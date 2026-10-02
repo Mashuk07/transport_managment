@@ -1,0 +1,20 @@
+======================================================================
+  SHUTTLE UTILIZATION REPORT
+  Generated: 2026-10-03 02:39
+======================================================================
+
+   registration_no        | capacity | trips | avg_passengers | utilization_pct
+   -----------------------+----------+-------+----------------+----------------
+   DHAKA-METRO-BA-11-2350 | 16       | 40    | 29.3           | 183.0          
+   DHAKA-METRO-BA-11-2351 | 16       | 79    | 24.2           | 151.0          
+   DHAKA-METRO-BA-11-2348 | 32       | 80    | 29.4           | 91.7           
+   DHAKA-METRO-BA-11-2349 | 32       | 39    | 28.7           | 89.8           
+   DHAKA-METRO-BA-11-2352 | 45       | 38    | 27.6           | 61.3           
+   DHAKA-METRO-BA-11-2345 | 52       | 38    | 31.8           | 61.2           
+   DHAKA-METRO-BA-11-2347 | 52       | 38    | 31.7           | 61.0           
+   DHAKA-METRO-BA-11-2346 | 52       | 58    | 31.2           | 59.9           
+
+
+   INSIGHT: Low-utilization buses could be reassigned to
+            higher-demand routes, or replaced with smaller vehicles.
+======================================================================

@@ -1,0 +1,18 @@
+======================================================================
+  WASTED REVENUE REPORT — PAID BUT NEVER BOARDED
+  Generated: 2026-10-03 02:39
+======================================================================
+
+   uiu_id     | full_name        | route_code | fee_charged
+   -----------+------------------+------------+------------
+   0152330109 | Jayed bin rashid | Route-04A  | 4700.00    
+   0152330113 | Shoaib Ahmed     | Route-03   | 3500.00    
+
+
+   TOTAL STUDENTS: 2
+   UNUSED REVENUE: 8,200 BDT
+
+   INSIGHT: These students paid for the shuttle but never used it.
+            Could indicate: dropped courses, alternate transport, or
+            refund eligibility. Worth investigating.
+======================================================================

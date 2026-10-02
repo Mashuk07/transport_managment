@@ -1,0 +1,27 @@
+======================================================================
+  TOP BOARDING STOPS REPORT
+  Generated: 2026-10-03 02:39
+======================================================================
+
+   stop_name             | area        | boardings
+   ----------------------+-------------+----------
+   Dhanmondi Keari Plaza | Dhanmondi   | 44       
+   Zigatola Bus Stop     | Dhanmondi   | 44       
+   Gulshan 2             | Gulshan     | 42       
+   Mohammadpur BRTC      | Mohammadpur | 40       
+   Shankar Bus Stop      | Dhanmondi   | 37       
+   Airport               | Airport     | 31       
+   Abdullahpur           | Uttara      | 30       
+   West Kalabagan        | Dhanmondi   | 30       
+   Mirpur 1              | Mirpur      | 30       
+   Mugdapara             | Mugdapara   | 30       
+   Azimpur               | Azimpur     | 29       
+   Panthapath            | Dhanmondi   | 28       
+   Bashabo               | Bashabo     | 27       
+   City College          | Dhanmondi   | 26       
+   Kuril Flyover         | Kuril       | 26       
+
+
+   INSIGHT: Highest-traffic stops indicate where students
+            concentrate. Could justify more services.
+======================================================================

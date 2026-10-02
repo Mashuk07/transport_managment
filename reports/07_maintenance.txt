@@ -1,0 +1,19 @@
+======================================================================
+  FLEET MAINTENANCE COST REPORT
+  Generated: 2026-10-03 02:39
+======================================================================
+
+   registration_no        | shuttle_type | capacity | services | total_cost
+   -----------------------+--------------+----------+----------+-----------
+   DHAKA-METRO-BA-11-2351 | Microbus     | 16       | 3        | 19500.00  
+   DHAKA-METRO-BA-11-2349 | Minibus      | 32       | 2        | 14500.00  
+   DHAKA-METRO-BA-11-2348 | Minibus      | 32       | 1        | 12000.00  
+   DHAKA-METRO-BA-11-2346 | Bus          | 52       | 2        | 7000.00   
+   DHAKA-METRO-BA-11-2347 | Bus          | 52       | 1        | 6000.00   
+   DHAKA-METRO-BA-11-2345 | Bus          | 52       | 1        | 4500.00   
+   DHAKA-METRO-BA-11-2350 | Microbus     | 16       | 1        | 4500.00   
+   DHAKA-METRO-BA-11-2352 | Bus          | 45       | 1        | 2500.00   
+
+
+   TOTAL FLEET MAINTENANCE COST: 70,500 BDT
+======================================================================

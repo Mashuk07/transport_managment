@@ -1,0 +1,14 @@
+======================================================================
+  TERM TYPE COMPARISON — TRIMESTER vs SEMESTER
+  Generated: 2026-10-03 02:39
+======================================================================
+
+   term_type | students | revenue  | avg_fee
+   ----------+----------+----------+--------
+   Trimester | 21       | 64000.00 | 3047.62
+   Semester  | 3        | 14200.00 | 4733.33
+
+
+   INSIGHT: Trimester students pay lower fees than Semester students
+            for the same routes. This reflects the shorter duration.
+======================================================================
