@@ -8,8 +8,8 @@ from mysql.connector import Error
 # ---- Connection configuration ----
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'root',              # change if your MySQL user is different
-    'password': '1001', # <-- PUT YOUR MYSQL PASSWORD HERE
+    'user': '###',              # change if your MySQL user is different
+    'password': '####', # <-- PUT YOUR MYSQL PASSWORD HERE
     'database': 'transport_management',
     'port': 3306
 }
